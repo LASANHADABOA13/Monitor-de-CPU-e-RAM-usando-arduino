@@ -12,8 +12,12 @@ Este projeto conecta um **Arduino** a um computador via **serial** e exibe em um
 
 Exemplo no LCD:  
 
-CPU: RAM:
-35% 62%
+CPU: 
+35%
+
+
+RAM:
+62%
             
 
 ---
